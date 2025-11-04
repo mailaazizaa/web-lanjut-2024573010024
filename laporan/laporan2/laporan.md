@@ -10,7 +10,7 @@
 Laporan ini bertujuan untuk membahas tentang fondasi utama dalam membangun aplikasi laravel. Laporan ini untuk memahami routing, middleware, penanganan request/response, controller, view, dan Blade templating sangat penting untuk mulai mengembangkan dengan Laravel secara efektif.
 
 ---
-
+            
 ## 1. Dasar Teori
 - Apa itu MVC (Model, View, Controller).
 MVC adalah singkatan dari Model-View-Controller, sebuah pola arsitektur perangkat lunak yang digunakan untuk memisahkan concern dalam aplikasi web:
